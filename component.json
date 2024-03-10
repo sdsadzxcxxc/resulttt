@@ -1,0 +1,10 @@
+{
+  "name": "resulttt",
+  "description": ".replace('{{resulttt}}', string)",
+  "version": "0.2.1",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "sdsadzxcxxc/resulttt",
+  "license": "MIT"
+}
